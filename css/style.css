@@ -37,7 +37,7 @@ a:hover{
 /*index section*/
 .hero {
   position: relative;
-  background: url('images/timi-bg.gif');
+  background: url('../images/timi-bg.gif');
   min-height: 100vh;
   background-size: cover;
   background-position: center;
