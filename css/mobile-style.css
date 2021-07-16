@@ -1,4 +1,4 @@
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 768px){
   .onMobile{
     display: none;
   }
@@ -9,6 +9,7 @@
     position: absolute;
     width: 80%;
     top: 10%;
+    left: 10%;
   }
 
 }
