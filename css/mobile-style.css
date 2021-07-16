@@ -1,0 +1,14 @@
+@media only screen and (max-width: 767px){
+  .onMobile{
+    display: none;
+  }
+
+
+  .mobileText{
+    display: block !important;
+    position: absolute;
+    width: 80%;
+    top: 10%;
+  }
+
+}
