@@ -71,6 +71,12 @@ a:hover{
   padding-bottom: 7%;
 }
 
+.w_grid h6{
+  color: black;
+}
+
+
+
 /*pages section*/
 .container {
   display: flex;
