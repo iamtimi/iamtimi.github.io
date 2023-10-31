@@ -13,7 +13,7 @@ a:hover{
 }
 
 .mobileText{
-  display: none;
+  display:none;
 }
 
 .sr-only {
@@ -44,7 +44,7 @@ a:hover{
   background: url('../images/timi-bg.gif');
   min-height: 100vh;
   background-size: cover;
-  background-position: center;
+
 }
 
 .hero h1 {
@@ -70,12 +70,6 @@ a:hover{
   width: 100%;
   padding-bottom: 7%;
 }
-
-.w_grid h6{
-  color: black;
-}
-
-
 
 /*pages section*/
 .container {
@@ -150,5 +144,5 @@ a:hover{
 
 #footer-text {
   text-align: center;
-  color: white;
+  color: #eb445c;
 }
